@@ -1,8 +1,7 @@
 demo video link-
-
 https://drive.google.com/file/d/1-J1zVoEUB_bgOKgC4pmW-56kQD_cRAtO/view?usp=sharing 
- dashboard public link-
- https://public.tableau.com/app/profile/antonia.joice.l/vizzes
+tableau publish link-
+https://public.tableau.com/app/profile/antonia.joice.l/vizzes
 
 
 
